@@ -1,0 +1,14 @@
+/* Element Selector, for all elements with this type */
+h1 {
+  color: blue;
+}
+
+/* ID Selector, can't have same id's for multiple elements */
+#special {
+  background-color: yellow;
+}
+
+/* Class Selector, is for multiple elements */
+.completed {
+  text-decoration: line-through;
+}
