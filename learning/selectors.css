@@ -1,0 +1,40 @@
+/* Element */
+li {
+
+}
+
+/* class */
+.hello {
+
+}
+
+
+#name {
+
+}
+
+/* Descendent Selector */
+/* Every anchor tag inside of an li */
+li a {
+
+}
+
+/* Adjacent Selector */
+/* Ul's that are Adjacent (on the same level) as h4  */
+h4 + ul {
+  ul
+}
+
+/* Attribute selector */
+/* select a specific attribute  */
+a[href="http://www.google.com"] {
+
+}
+
+input[type="checkbox"] {
+
+}
+
+ul:nth-last-of-type(3){
+
+}

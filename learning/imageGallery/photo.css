@@ -1,0 +1,16 @@
+#header {
+  font-family: 'Raleway';
+  margin: 1.66%;
+  font-size: 26px;
+  font-weight: 800;
+  text-transform: uppercase;
+  width: 30%;
+  padding-bottom: 2%;
+  border-bottom: 3px solid #a4d4b4;
+}
+
+img {
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+}
